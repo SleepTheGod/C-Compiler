@@ -10,6 +10,7 @@
 ██║     ██║   ██║██║╚██╔╝██║██╔═══╝ ██║██║     ██╔══╝  ██╔══██╗
 ╚██████╗╚██████╔╝██║ ╚═╝ ██║██║     ██║███████╗███████╗██║  ██║
  ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝                            
+Installation video https://www.youtube.com/watch?v=MfgHiHx8RUY
 Made By Taylor Christian Newsome
 
 Advanced C Compiler Script
